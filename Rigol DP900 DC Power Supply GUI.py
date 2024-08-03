@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="dNS5ej2zgdrzHVq7zMgr4RwFxGy1xtknjIM-nUMvti8" />
 import pyvisa
 import time
 import tkinter as tk
